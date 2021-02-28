@@ -1,2 +1,2 @@
 # Simulation
-Descrete-event simulation exercises using Plant Simulation from Siemens
+Descrete-event simulation exercises using Plant Simulation by Siemens
